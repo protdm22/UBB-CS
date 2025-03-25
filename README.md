@@ -1,2 +1,14 @@
 # UBB-CS
-A collection of projects, assignments, and exam-related work from my Computer Science studies at Babeș-Bolyai University. Includes implementations in various programming languages, algorithms, data structures, and problem-solving approaches.
+## Semester 1
+- Fundamentals of Programming (FP)
+- Computer Systems Architecture (ASC)
+- Computational Logic
+- Algebra
+- Mathematical Analysis
+## Semester 2
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms (DSA)
+- Operating Systems (OS)
+- Graphs
+- Dynamic Systems
+- Geometry
