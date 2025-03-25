@@ -1,6 +1,6 @@
 # UBB-CS
 ## Semester 1
-- Fundamentals of Programming (FP)
+- [Fundamentals of Programming (FP)](https://github.com/protdm22/UBB-FP)
 - Computer Systems Architecture (ASC)
 - Computational Logic
 - Algebra
